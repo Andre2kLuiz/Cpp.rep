@@ -10,7 +10,7 @@ int main() {
 
   cout << "digite um numero entra [1] e [10]: " << endl;
   cin >> numeroS;
-  system("clear");
+  
 
   for(cont=3; cont >= 0; cont--){
     if(cont != 0){
